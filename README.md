@@ -1,1 +1,2 @@
-Repositorio para estudos
+Repositório para estudos clone
+Descrição opcional
